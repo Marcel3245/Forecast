@@ -1,0 +1,14 @@
+D:\Programowanie\My Programs\Forecast\bin\Release\Forecast.exe.config
+D:\Programowanie\My Programs\Forecast\bin\Release\Forecast.exe
+D:\Programowanie\My Programs\Forecast\bin\Release\Forecast.pdb
+D:\Programowanie\My Programs\Forecast\bin\Release\Newtonsoft.Json.dll
+D:\Programowanie\My Programs\Forecast\bin\Release\Newtonsoft.Json.xml
+D:\Programowanie\My Programs\Forecast\obj\Release\Forecast.csproj.AssemblyReference.cache
+D:\Programowanie\My Programs\Forecast\obj\Release\Forecast.csproj.SuggestedBindingRedirects.cache
+D:\Programowanie\My Programs\Forecast\obj\Release\Forecast.Form1.resources
+D:\Programowanie\My Programs\Forecast\obj\Release\Forecast.Properties.Resources.resources
+D:\Programowanie\My Programs\Forecast\obj\Release\Forecast.csproj.GenerateResource.cache
+D:\Programowanie\My Programs\Forecast\obj\Release\Forecast.csproj.CoreCompileInputs.cache
+D:\Programowanie\My Programs\Forecast\obj\Release\Forecast.csproj.CopyComplete
+D:\Programowanie\My Programs\Forecast\obj\Release\Forecast.exe
+D:\Programowanie\My Programs\Forecast\obj\Release\Forecast.pdb
