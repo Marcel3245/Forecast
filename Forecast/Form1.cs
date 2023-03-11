@@ -7,7 +7,7 @@ namespace Forecast
 {
     public partial class Form1 : Form
     {
-        //Api key = 94ba9080127199cf53683b2ccfce33ad
+        //Api key = your API key
         //https://api.openweathermap.org/data/2.5/weather?q={city name}&units=metric&appid={API key}
 
         public Form1()
@@ -33,7 +33,7 @@ namespace Forecast
             using (WebClient web = new WebClient())
             {
                 string city = CityTextBox.Text;
-                string APIKey = "94ba9080127199cf53683b2ccfce33ad";
+                string APIKey = "your API key";
 
                 try
                 {
